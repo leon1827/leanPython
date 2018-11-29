@@ -6,3 +6,5 @@ duyang duyang
 
 dfsd
 dsfsadfsdfsdf
+
+git is under GPL
